@@ -1,0 +1,6 @@
+@API_Dealer_Mobil_Acc_HostAddress = http://localhost:5197
+
+GET {{API_Dealer_Mobil_Acc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
